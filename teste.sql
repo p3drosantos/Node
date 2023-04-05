@@ -1,0 +1,1 @@
+UPDATE pessoa SET nome = "Luiz Ricardo" WHERE nome = "Mateus Lopes";
